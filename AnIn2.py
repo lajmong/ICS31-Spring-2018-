@@ -1,4 +1,4 @@
-#Yuheun Kim 68174296 and Anika Engracia 24421474. Lab section 5. Lab assignment 9.
+#Lab section 5. Lab assignment 9.
 
 #from collections import namedtuple
 
