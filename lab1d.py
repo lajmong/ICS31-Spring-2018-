@@ -1,4 +1,4 @@
-# Yuheun Kim 68174296 and Alexzander Carranza 14859038. ICS 31 Lab sec 5. Lab Assignment 1d.
+# ICS 31 Lab sec 5. Lab Assignment 1d.
 def factorial (n: int) -> int:
     ''' Compute n! (n factorial) '''
     if n <= 0:
