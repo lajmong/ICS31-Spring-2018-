@@ -1,4 +1,4 @@
-# Yuheun Kim 68174296  Cindy Santos. 90924367.  ICS 31 Lab sec 5.  Lab assignment 7.
+# ICS 31 Lab sec 5.  Lab assignment 7.
 
 #Part C
 #(c.1) (c.2) (c.3)
