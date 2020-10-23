@@ -1,4 +1,4 @@
-# Yuheun Kim 68174296 and Sharon Lee 55249707.  ICS 31 Lab sec 5.  Lab Assignment 6.
+# ICS 31 Lab sec 5.  Lab Assignment 6.
 #Part C
 print ("part C")
 #C.1
