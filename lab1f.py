@@ -1,4 +1,4 @@
-# Yuheun Kim 68174296 and Alexzander Carranza 14859038. ICS 31 Lab sec 5. Lab Assignment 1f.
+# ICS 31 Lab sec 5. Lab Assignment 1f.
 
 # (1) answers
 print (2 + 4 + 6 + 8 + 10)
