@@ -1,4 +1,4 @@
-#  Yuheun Kim 68174296.  ICS 31 Lab sec 5.  Lab asst 8.
+# ICS 31 Lab sec 5.  Lab asst 8.
 
 #Part C
 print ('---------Part C')
