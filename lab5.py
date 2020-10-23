@@ -1,4 +1,4 @@
-#  Yuheun Kim 68174296 Sabrina Deguzman 81738227  ICS 31 Lab sec 5.  Lab assignment 5.
+# ICS 31 Lab sec 5.  Lab assignment 5.
 #Part C
 print ("Part C")
 def Dish (name: str, price: float, calorie: int) -> None:
