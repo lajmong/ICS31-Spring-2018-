@@ -1,5 +1,5 @@
 # ICS31-Spring-2018
-Python coding assignments from UCI ICS31 Spring semester 2018.
+Python coding assignments from UCI ICS31 Spring semester 2018 ([link](https://www.ics.uci.edu/~kay/courses/31/hw/))
 
 - Assignments were due every week
 - Every week the assignments would be done in a group of two to promote cooperation
