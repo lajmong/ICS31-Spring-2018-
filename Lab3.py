@@ -1,4 +1,4 @@
-# Yuheun Kim 68174296 and Daigo Kobayashi ICS 31 Lab sec 5. Lab Assignment 3.
+# ICS 31 Lab sec 5. Lab Assignment 3.
 
 #part C
 print ('-------------part C-------------')
