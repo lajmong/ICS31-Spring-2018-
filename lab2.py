@@ -1,4 +1,4 @@
-#  Jooyeon Hong 60475335 and Yuheun Kim 68174296.  ICS 31 Lab sec 5.  Lab Assignment 2.
+# ICS 31 Lab sec 5.  Lab Assignment 2.
 
 # (c)
 print("How many hours?")
